@@ -1,8 +1,8 @@
-# for the grammar:
-# E -> E + E
-# E -> E * E
-# E -> ( E )
-# E -> id
+// for the grammar:
+// E -> E + E
+// E -> E * E
+// E -> ( E )
+// E -> id
 
 #include <stdio.h>
 #include <string.h>
