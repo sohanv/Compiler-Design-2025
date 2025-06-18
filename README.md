@@ -14,11 +14,10 @@
 | Nested For loops                     | [Link](https://github.com/KTS-o7/Compiler-Design/blob/main/Prog3/a/lex.l)                          |
 | Number of identifiers and operators  | [Link](https://github.com/KTS-o7/Compiler-Design/blob/main/Lab%20New%20Codes/keywordCount/lex.l)   |
 | Nested IF statements                 | [Link](https://github.com/KTS-o7/Compiler-Design/blob/main/Lab%20New%20Codes/nestedIf/lex.l)       |
-| Variable Declaration                 | [Link](https://github.com/KTS-o7/Compiler-Design/blob/main/Lab%20New%20Codes/declCount/lex.l)      |
+| Shift Reduce Parser                  | [Link](https://github.com/sohanv/Compiler-Design-2025/blob/main/parser.c)                          |
 | Three address code                   | [Link](https://github.com/KTS-o7/Compiler-Design/blob/main/Prog4/lex.l)                            |
 | Function definition                  | [Link](https://github.com/KTS-o7/Compiler-Design/blob/main/Prog3/b/lex.l)                          |
 | Assembly code generation             | [Link](https://github.com/KTS-o7/Compiler-Design/blob/main/Prog5/lex.l)                            |
-| Shift Reduce Parser                  | [Link](https://github.com/sohanv/Compiler-Design-2025/blob/main/parser.c)                          |
 
 ## Pre-requisites
 
